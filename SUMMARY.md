@@ -1,8 +1,8 @@
 # Summary
 
 * [前言](README.md)
-* 第一部分：学习 Go 语言
-  * 第1章：Go 语言的起源，发展与普及
+* [第一部分：学习 Go 语言](di-yi-bu-fen-ff1a-xue-xi-go-yu-yan.md)
+  * [第1章：Go 语言的起源，发展与普及](di-1-zhang-ff1a-go-yu-yan-de-qi-yuan-ff0c-fa-zhan-yu-pu-ji.md)
     * [1.1 起源与发展](01.1.md)
     * [语言的主要特性与发展的环境和影响因素](01.2.md)
   * [第2章：安装与运行环境](02.1.md)
